@@ -1,3 +1,17 @@
-body {
+/* body {
     background: blue;
-  } 
+  }  */
+
+h1{
+  text-align: center;
+  /* padding-top: 5em; */
+}
+
+.section{
+  height: 5em;
+  margin: 0;
+}
+
+#sectionOne{
+  background-color:gray;
+}
